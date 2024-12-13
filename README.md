@@ -1,6 +1,6 @@
 ## ■Colabを使う時のデータファイルをアップロードする方法
 
-### coladでgithubファイルを開く際に、URLの前半部分[https://github.com]　を　[https://colab.research.google.com/github]　にを書き換える
+### colabでgithubファイルを開く際に、URLの前半部分[https://github.com]　を　[https://colab.research.google.com/github]　にを書き換える
 
 例えば：
 
